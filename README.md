@@ -70,3 +70,7 @@ The source code contains a fairly comprehensive suite of unit tests implemented 
 ## Source Code Comments
 
 The source code has extensive comments. The comments follow Microsoft's standard syntax for [documentation comments](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments) to facilitate automated documentation generation.
+
+## Do you have any stretch goals for this application?
+
+Yes! I would love to reimplement this in other languages such as Java, Javascript or Python (probably in that order).
