@@ -46,7 +46,7 @@ Based on the results returned from the Bench Rest Test transactions web service 
 2013-12-21 18487.87<br />
 2013-12-22 18377.16<br />
 
-**Note:** While it certainly would have been very easy to make the output "fancier", the above example output follows the *exact* output requirements specified on the [Bench.co Rest Test](https://resttest.bench.co/) page. No more. No less.
+**Note:** While it certainly would have been very easy to make the output "fancier", the above example output follows the *exact* output requirements specified on the [Bench.co Rest Test](https://resttest.bench.co/) page. No more. No less. This was a conscious decision I made to avoid the phenomenon of [gold plating](https://en.wikipedia.org/wiki/Gold_plating_(project_management)). I assumed that Bench would be checking for that when reviewing the program.
 
 ## Unit Testing this Program
 
