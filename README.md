@@ -14,7 +14,7 @@ This project targets Microsoft .NET 6.0. If you don't have it installed already,
 
 ## How to Build The Program Yourself
 
-This solution was created with [Microsoft Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/). If you want to build the executable yourself you can do the following:
+This solution was created with [Microsoft Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/). If you want to build the executable yourself, you can do the following:
 1. Install Microsoft Visual Studio Community 2022.
 2. Use the NuGet Package Manager Console in Visual Studio (Tools > NuGet Package Manager > Package Manager Console) to install the ConfigurationManager package from NuGet with the command **Install-Package System.Configuration.ConfigurationManager**
 3. Use the NuGet Package Manager Console in Visual Studio (Tools > NuGet Package Manager > Package Manager Console) to install the Moq package from NuGet with the command **Install-Package Moq**
@@ -26,7 +26,7 @@ This solution was created with [Microsoft Visual Studio Community 2022](https://
 
 ## Application Configuration
 
-The program can be configured by editing the application configuration file. If you are running the program from pre-compiled binaries, the application configuration file is ***BenchRestClient.dll.config**. If you are running the program from Visual Studio, the application configuration file is **app.config**.
+The program can be configured by editing the application configuration file. If you are running the program from pre-compiled binaries, the application configuration file is **BenchRestClient.dll.config**. If you are running the program from Visual Studio, the application configuration file is **app.config**.
 
 Here are the configurable settings:
 - PrintTraceMessagesToConsole - Set to `true` to dump execution debug trace messages to the console or `false` to turn off. Default is `false`.
